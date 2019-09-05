@@ -22,7 +22,7 @@
     "prop-types": "^15.6.0",
     "react": "^16.4.1",
     "react-bootstrap": "^0.32.1",
-    "react-dom": "^16.4.1",
+    "react-dom": "^16.4.2",
     "webpack": "^3.10.0",
     "webpack-dev-middleware": "^2.0.4"
   },
